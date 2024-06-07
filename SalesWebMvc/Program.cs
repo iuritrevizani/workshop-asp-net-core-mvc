@@ -21,6 +21,5 @@ namespace SalesWebMvc
             WebHost.CreateDefaultBuilder(args)
                 .UseStartup<Startup>();
 
-        //TESTE
     }
 }
