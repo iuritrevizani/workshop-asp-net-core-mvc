@@ -7,6 +7,7 @@ Esse é um exercico feito no curso "C# COMPLETO Programação Orientada a Objeto
 - HTML
 - CSS
 - JavaScript
+- Banco de dados MySQL
 
 ## Operações possiveis:
 - Cadastrar um novo Vendedor
